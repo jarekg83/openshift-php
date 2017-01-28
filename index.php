@@ -1,6 +1,6 @@
 <?php
 
-echo ("iii Hello World lalala!");
+echo ("Hello World lalala!");
 
 echo gethostname(); 
 ?>
