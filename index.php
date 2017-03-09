@@ -1,6 +1,6 @@
 <?php
 
-echo ("Hello World lalala! q231232<BR><BR>");
+echo ("Hello World lalala! <BR><BR>");
 
 echo gethostname();
 
